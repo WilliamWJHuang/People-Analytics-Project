@@ -6,19 +6,18 @@ The dataset is from UCI Machine Learning Repository. The dataset contains a trai
 - The test set contains 16281 observations with 15 columns.
 
 The representation of variables are as below:
-
-age: the age of an individual
-workclass: a general term to represent the employment status of an individual
-fnlwgt: final weight
-education: the highest level of education achieved by an individual
-education_num: the highest level of education achieved in numerical form
-marital_status: marital status of an individual
-occupation: the general type of occupation of an individual
-relationship: represents what this individual is relative to others
-race: Descriptions of an individual’s race
-sex: the biological sex of the individual
-capital_gain: capital gains for an individual
-capital_loss: capital loss for an individual
-hours_per_week: the hours an individual has reported to work per week
-native_country: country of origin for an individual
-class_: whether or not an individual makes more than $50,000 annually.
+- age: the age of an individual
+- workclass: a general term to represent the employment status of an individual
+- fnlwgt: final weight
+- education: the highest level of education achieved by an individual
+- education_num: the highest level of education achieved in numerical form
+- marital_status: marital status of an individual
+- occupation: the general type of occupation of an individual
+- relationship: represents what this individual is relative to others
+- race: Descriptions of an individual’s race
+- sex: the biological sex of the individual
+- capital_gain: capital gains for an individual
+- capital_loss: capital loss for an individual
+- hours_per_week: the hours an individual has reported to work per week
+- native_country: country of origin for an individual
+- class_: whether or not an individual makes more than $50,000 annually.
