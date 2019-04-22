@@ -24,3 +24,13 @@ The purpose of this modeling task is to predict whether income exceeds 50k/yr ba
 - hours_per_week: the hours an individual has reported to work per week
 - native_country: country of origin for an individual
 - class_: whether or not an individual makes more than $50,000 annually.
+
+![Variable Correlation](https://github.com/WilliamWJHuang/People-Analytics-Project/blob/master/Variable%20correlation.png)
+
+
+
+**ROC on the test set**:
+
+![ROC](https://github.com/WilliamWJHuang/People-Analytics-Project/blob/master/ROC%20curve_test%20set.png)
+
+
